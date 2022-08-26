@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/drawable/bg_card.xml" value="0.2375" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/drawable/radius_bg.xml" value="0.3345" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/layout/activity_info_pokemon.xml" value="0.3484375" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/layout/pokemon_item.xml" value="0.2" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/layout/pokemon_item2.xml" value="0.5" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/layout/testitem.xml" value="0.365625" />
+        <entry key="..\:/Users/cleis/AndroidStudioProjects/pokedex_k/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="retrofit2.http.GET" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
